@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://admin:@cluster0.boeoc.mongodb.net/<dbname>?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://admin:@cluster0.boeoc.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": ""
 }
